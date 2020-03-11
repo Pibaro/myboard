@@ -16,7 +16,7 @@
             </div>
 
             <div class="subtitle-1 font-weight-light">
-              Complete your profile
+              Complete profile
             </div>
           </template>
 
